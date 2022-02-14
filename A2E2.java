@@ -1,10 +1,10 @@
 import java.util.Scanner;
-public class ejercicio2
+public class A2E2
 {
     static Scanner entrada = new Scanner(System.in);
     public static void main(String args [])
     {
-        System.out.println("Ingrese cualquier digito N para saber cuantos numetos hay entre (5-n)");
+        System.out.println("Ingrese cualquier digito N para saber cuantos numetos hay entre (N-1)");
         int num = entrada.nextInt();
         System.out.println("");
 
